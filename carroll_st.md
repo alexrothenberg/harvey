@@ -6,27 +6,41 @@ date:   2013-10-15 14:57:49
 
 ## Carroll St in the Park Slope Brooklyn
 
-![Image 001](carroll_st/IMG_0001.jpeg)
-### Looking up
+![Entryway](carroll_st/IMG_0001.png)
+### Entryway
 
-![Entry](carroll_st/IMG_0002.jpeg)
-### Entry
+![Living Room](carroll_st/IMG_0002.png)
+### Living Room
 
-![Parlor Floor](carroll_st/IMG_0003.jpeg)
+![Loom & Fireplace](carroll_st/IMG_0003.png)
+### Loom & Fireplace
+
+![Looking up the Well](carroll_st/IMG_0004.png)
+### Looking up the Well
+
+![Parlor Floor](carroll_st/IMG_0005.png)
 ### Parlor Floor
 
-![Image 001](carroll_st/IMG_0004.jpeg)
+![Parlor Floor](carroll_st/IMG_0006.png)
 ### Parlor Floor
 
-![Stairs](carroll_st/IMG_0005.jpeg)
-### Stairs
+![Towards the Kitchen](carroll_st/IMG_0007.png)
+### Towards the Kitchen
 
-![Study](carroll_st/IMG_0006.jpeg)
-### Study
+![Dining Room & Kitchen](carroll_st/IMG_0008.png)
+### Dining Room & Kitchen
 
-![Kitchen](carroll_st/IMG_0007.jpeg)
-### Kitchen
+![Birthing the Camel](carroll_st/IMG_0009.png)
+### Birthing the Camel
 
-![Towards the kitchen](carroll_st/IMG_0008.jpeg)
-### Towards the kitchen
+![Construction](carroll_st/IMG_0010.png)
+### Construction
+
+![Construction](carroll_st/IMG_0011.png)
+### Construction
+
+![Construction](carroll_st/IMG_0012.png)
+### Construction
+
+
 
